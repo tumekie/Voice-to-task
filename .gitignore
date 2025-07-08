@@ -1,0 +1,33 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+assistant-env/
+
+# Ignore credentials and tokens
+token.json
+googleCredentials.json
+
+# Ignore Vosk models and audio
+model/
+*.wav
+*.mp3
+
+# Ignore Streamlit generated cache/state
+.streamlit/
+.cache/
+*.log
+
+# macOS system files
+.DS_Store
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore system generated files
+*.swp
