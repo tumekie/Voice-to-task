@@ -3,6 +3,7 @@
 An AI-powered Python application that listens to your voice commands, extracts tasks, and schedules them as reminders in your Google Calendar using the Google Contacts API.
 
 🚀 Features
+
 Voice Command Recognition: Capture and process voice commands to identify tasks.
 
 AI Task Extraction: Utilize AI models to extract actionable tasks from voice input.
