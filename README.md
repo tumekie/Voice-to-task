@@ -13,6 +13,7 @@ Google Calendar Integration: Automatically add tasks as reminders to your Google
 Google Contacts API: Leverage the Google Contacts API for seamless integration.
 
 📦 Prerequisites
+
 Before running the application, ensure you have the following:
 
 Python 3.8+: Ensure Python is installed on your system.
